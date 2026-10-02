@@ -1,0 +1,5 @@
+print("Equal-Equal 1==1 is:",(1==1))
+print("Greater 4>3:",(4>3))
+print("Less 3<4:",(3<4))
+print("Greater equal to 5>=4:",(5>=4))
+print("Less equal to 4<=3:",(4<=3))
