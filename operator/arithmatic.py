@@ -4,4 +4,4 @@ print("Addition of 10+2 is:",a+b)
 print("Addition of 10-2 is:",a-b)
 print("Addition of 10*2 is:",a*b)
 print("Addition of 10/2 is:",a/b)  
-print("Addition of 10%2 is:",a%b)  # provide reminder
+print("Addition of 10%2 is:",a%b)  # return reminder
