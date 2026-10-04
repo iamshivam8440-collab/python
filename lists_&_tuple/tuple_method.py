@@ -1,0 +1,6 @@
+t1=(1,2,5,7,9,2)
+print("Tuple is:",t1)
+# Count the occurence of the element --> .count(element)
+print("Occurence of 2 is:",t1.count)
+# Find the index number present in element --> .index(element)
+print("Index number of 9 is:",t1.index(9))
