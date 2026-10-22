@@ -1,4 +1,4 @@
-# Enter 5 subject marka and arrange in ascending order
+# Enter 5 subject marks and arrange in ascending order
 marks1=int(input("Enter 1st subject marks:"))
 marks2=int(input("Enter 2nd subject marks:"))
 marks3=int(input("Enter 3rd subject marks:"))
